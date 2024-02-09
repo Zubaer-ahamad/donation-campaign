@@ -1,0 +1,137 @@
+{
+    "donations": [
+      {
+        "id": 1,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicC0J3xfoP59wPYMm-ZNWk9FPi5lWWmTiUA&usqp=CAU",
+        "title": "Support Education",
+        "category": "Education",
+        "category_bg_color": "#FFD700",
+        "card_bg_color": "#F5F5F5",
+        "text_button_bg_color": "#333333",
+        "description": "Your contribution will empower children with knowledge and skills for a brighter future.",
+        "price": 50
+    
+      },
+      {
+        "id": 2,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgKLNHmu6AAhHR6XrG0w6oIbFccYll5YEaA&usqp=CAU",
+        "title": "Provide Nutritious Food",
+        "category": "Food",
+        "category_bg_color": "#FF6347",
+        "card_bg_color": "#F0E68C",
+        "text_button_bg_color": "#006400",
+        "description": "Help ensure that no child goes to bed hungry. Your donation supports food programs.",
+        "price": 30
+      },
+      {
+        "id": 3,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNaeXQ5vWo44A8hHfjDlVm_cT89UIEbYD6A&usqp=CAU",
+        "title": "Clothing Assistance",
+        "category": "Clothing",
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#FFE4B5",
+        "text_button_bg_color": "#8B4513",
+        "description": "Provide warm clothing to protect children from the cold and promote their well-being.",
+        "price": 20
+      },
+      {
+        "id": 4,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn0X1XqStA_nYa2TsaaO0cidM_scvZ3i3aA&usqp=CAU",
+        "title": "Healthcare Support",
+        "category": "Health",
+        "category_bg_color": "#FFA07A",
+        "card_bg_color": "#D3D3D3",
+        "text_button_bg_color": "#800000",
+        "description": "Your donation contributes to medical care, vaccinations, and health awareness programs.",
+        "price": 40
+      },
+      {
+        "id": 5,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn0X1XqStA_nYa2TsaaO0cidM_scvZ3i3aA&usqp=CAU",
+        "title": "Healthcare Support",
+        "category": "Health",
+        "category_bg_color": "#FFA07A",
+        "card_bg_color": "#D3D3D3",
+        "text_button_bg_color": "#800000",
+        "description": "Your donation contributes to medical care, vaccinations, and health awareness programs.",
+        "price": 40
+      },
+      {
+        "id": 6,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNaeXQ5vWo44A8hHfjDlVm_cT89UIEbYD6A&usqp=CAU",
+        "title": "Clothing Assistance",
+        "category": "Clothing",
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#FFE4B5",
+        "text_button_bg_color": "#8B4513",
+        "description": "Provide warm clothing to protect children from the cold and promote their well-being.",
+        "price": 20
+      },
+      {
+        "id": 7,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgKLNHmu6AAhHR6XrG0w6oIbFccYll5YEaA&usqp=CAU",
+        "title": "Provide Nutritious Food",
+        "category": "Food",
+        "category_bg_color": "#FF6347",
+        "card_bg_color": "#F0E68C",
+        "text_button_bg_color": "#006400",
+        "description": "Help ensure that no child goes to bed hungry. Your donation supports food programs.",
+        "price": 30
+      },
+      {
+        "id": 8,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicC0J3xfoP59wPYMm-ZNWk9FPi5lWWmTiUA&usqp=CAU",
+        "title": "Support Education",
+        "category": "Education",
+        "category_bg_color": "#FFD700",
+        "card_bg_color": "#F5F5F5",
+        "text_button_bg_color": "#333333",
+        "description": "Your contribution will empower children with knowledge and skills for a brighter future.",
+        "price": 50
+      },
+      {
+        "id": 9,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgKLNHmu6AAhHR6XrG0w6oIbFccYll5YEaA&usqp=CAU",
+        "title": "Provide Nutritious Food",
+        "category": "Food",
+        "category_bg_color": "#FF6347",
+        "card_bg_color": "#F0E68C",
+        "text_button_bg_color": "#006400",
+        "description": "Help ensure that no child goes to bed hungry. Your donation supports food programs.",
+        "price": 30
+      },
+      {
+        "id": 10,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn0X1XqStA_nYa2TsaaO0cidM_scvZ3i3aA&usqp=CAU",
+        "title": "Healthcare Support",
+        "category": "Health",
+        "category_bg_color": "#FFA07A",
+        "card_bg_color": "#D3D3D3",
+        "text_button_bg_color": "#800000",
+        "description": "Your donation contributes to medical care, vaccinations, and health awareness programs.",
+        "price": 40
+      },
+      {
+        "id": 11,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNaeXQ5vWo44A8hHfjDlVm_cT89UIEbYD6A&usqp=CAU",
+        "title": "Clothing Assistance",
+        "category": "Clothing",
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#FFE4B5",
+        "text_button_bg_color": "#8B4513",
+        "description": "Provide warm clothing to protect children from the cold and promote their well-being.",
+        "price": 20
+      },
+      {
+        "id": 12,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicC0J3xfoP59wPYMm-ZNWk9FPi5lWWmTiUA&usqp=CAU",
+        "title": "Support Education",
+        "category": "Education",
+        "category_bg_color": "#FFD700",
+        "card_bg_color": "#F5F5F5",
+        "text_button_bg_color": "#333333",
+        "description": "Your contribution will empower children with knowledge and skills for a brighter future.",
+        "price": 50
+      }
+    ]
+  }

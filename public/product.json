@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "picture": "https://classyleatherbags.com/cdn/shop/products/il_fullxfull.2179964116_kzrl_512x510.jpg?v=1683210454",
+      "title": "Elegant Leather Handbag",
+      "category": "Fashion",
+      "category_bg": "#FFD700",
+      "card_bg": "#FFFFFF",
+      "text_button_bg": "#333333",
+      "description": "A sophisticated leather handbag with multiple compartments and a detachable shoulder strap.",
+      "price": "$89.99"
+    },
+    {
+      "id": 2,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4UuYIWenhiDdkIHBbj67q5LcfGCt81qOW4g&usqp=CAU",
+      "title": "Wireless Bluetooth Earbuds",
+      "category": "Electronics",
+      "category_bg": "#4CAF50",
+      "card_bg": "#F5F5F5",
+      "text_button_bg": "#000000",
+      "description": "High-quality earbuds with noise cancellation and long battery life.",
+      "price": "$59.99"
+    },
+    {
+      "id": 3,
+      "picture": "https://i0.wp.com/casualphotophile.com/wp-content/uploads/2017/01/five-best-polaroid-cameras-4-of-7.jpg?w=1280&ssl=1",
+      "title": "Vintage Polaroid Camera",
+      "category": "Photography",
+      "category_bg": "#FF5722",
+      "card_bg": "#FAF0E6",
+      "text_button_bg": "#800000",
+      "description": "Capture memories in retro style with this classic instant film camera.",
+      "price": "$129.00"
+    },
+    {
+      "id": 4,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXoDFgaw2ZhkAjbkrMAMBJkjHYuobMzGPXQ&usqp=CAU",
+      "title": "Cozy Knit Sweater",
+      "category": "Apparel",
+      "category_bg": "#FFA07A",
+      "card_bg": "#F0FFF0",
+      "text_button_bg": "#4B0082",
+      "description": "Stay warm and stylish with this soft knit sweater.",
+      "price": "$49.95"
+    },
+    {
+      "id": 5,
+      "picture": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/a/m/amazfit-band-5-smart-fitness-tracker-with-spo2-black-in-bd-at-bdshopcom.jpg",
+      "title": "Smart Fitness Tracker",
+      "category": "Health & Fitness",
+      "category_bg": "#00BFFF",
+      "card_bg": "#F8F8FF",
+      "text_button_bg": "#006400",
+      "description": "Track your steps, heart rate, and sleep quality with this sleek fitness wearable.",
+      "price": "$79.99"
+    },
+    {
+      "id": 6,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiywyZllvViUJbib4B30tAwRaRPCoNlMM8Rg&usqp=CAU",
+      "title": "Gourmet Coffee Beans",
+      "category": "Food & Beverage",
+      "category_bg": "#8B4513",
+      "card_bg": "#FFF8DC",
+      "text_button_bg": "#A0522D",
+      "description": "Indulge in rich, freshly roasted coffee beans from around the world.",
+      "price": "$18.50"
+    },
+    {
+      "id": 7,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwP-UBXHbE7p_SDl-JQMCSIIyP-kLw_pvDZA&usqp=CAU",
+      "title": "Minimalist Desk Lamp",
+      "category": "Home & Decor",
+      "category_bg": "#808080",
+      "card_bg": "#F0F8FF",
+      "text_button_bg": "#696969",
+      "description": "Illuminate your workspace with this sleek and adjustable LED lamp.",
+      "price": "$34.99"
+    },
+    {
+      "id": 8,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-mELUF80tWjcnMwJoiVYNikyptNjaqILAA&usqp=CAU",
+      "title": "Classic Aviator Sunglasses",
+      "category": "Accessories",
+      "category_bg": "#B0C4DE",
+      "card_bg": "#FFE4B5",
+      "text_button_bg": "#191970",
+      "description": "Shield your eyes from the sun in timeless aviator style.",
+      "price": "$69.95"
+    },
+    {
+      "id": 9,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxVRJBEttbf7fubFsksgzZfqSOza_o3kDeAA&usqp=CAU",
+      "title": "Portable Power Bank",
+      "category": "Tech Accessories",
+      "category_bg": "#32CD32",
+      "card_bg": "#F0E68C",
+      "text_button_bg": "#8B4513",
+      "description": "Keep your devices charged on the go with this compact power bank.",
+      "price": "$24.99"
+    },
+    {
+      "id": 10,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tJVUEDr6VlYCfKFmuTbJ1eSKj3PKix0OxA&usqp=CAU",
+      "title": "Handcrafted Ceramic Mug",
+      "category": "Home & Kitchen",
+      "category_bg": "#FF4500",
+      "card_bg": "#FFFAF0",
+      "text_button_bg": "#8B0000",
+      "description": "Sip your favorite beverage from this unique and rustic mug.",
+      "price": "$15.00"
+    },
+    {
+      "id": 11,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssqprjdNsAiiaz0DS6Ra6qhKsZI2WKkajKg&usqp=CAU",
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoor Gear",
+      "category_bg": "#4682B4",
+      "card_bg": "#F0FFFF",
+      "text_button_bg": "#2E8B57",
+      "description": "Stay hydrated during your adventures with this durable water bottle.",
+      "price": "$19.99"
+    },
+    {
+      "id": 12,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvHj44TeR_XH3kVFmvy3NwOLK4hZEMd4N6g&usqp=CAU",
+      "title": "Handwoven Throw Blanket",
+      "category": "Home Textiles",
+      "category_bg": "#FF6347",
+      "card_bg": "#FFF5EE",
+      "text_button_bg": "#8B4513",
+      "description": "Add warmth and texture to your living space with this cozy throw blanket.",
+      "price": "$42.50"
+    }
+  ]
+}
