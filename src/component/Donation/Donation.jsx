@@ -23,7 +23,7 @@ const Donation = () => {
                     donationData.slice(0, dataLength).map(data => <DonationDetails key={data.id} donation={data}></DonationDetails>)
                 }
             </div>
-            <div className={dataLength === donationData.length ? 'hidden' : 'flex justify-center'}>
+            <div className={dataLength >= donationData.length ? 'hidden' : 'flex justify-center'}>
                 <button onClick={() => setDataLength(donationData.length)} className="btn btn-error text-white">Show More</button>
             </div>
         </div>
